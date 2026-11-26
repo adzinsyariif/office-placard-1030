@@ -32,13 +32,18 @@ to remind the dead of meetings they had already missed" became "stuck to
 doors to remind the absent of meetings already missed". "Stuck" is the
 plainer, deader word; "the absent" is drier than "the dead"; dropping
 "they had" removes words that earned nothing.
+
+Revision 2: added label craft — a donor line, "Gift of Facilities.", the
+way real placards credit a donor. It sells the museum conceit harder and
+lands as a final deadpan beat without explaining the joke. Final line
+stays well inside 180 characters.
 """
 
 import os
 
 LINE = (
     "Yellow Prayer Square, New Kingdom of the Open Plan, c. 1400 BCE, gummed papyrus; "
-    "stuck to doors to remind the absent of meetings already missed."
+    "stuck to doors to remind the absent of meetings already missed. Gift of Facilities."
 )
 
 
