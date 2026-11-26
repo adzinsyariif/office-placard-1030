@@ -26,13 +26,19 @@ Candidate D (microwave):
   Scores: 1=5, 2=4, 3=3, 4=3, 5=4  -> total 19. Good label craft, wit slightly strained at the end.
 
 Winner: Candidate B.
+
+Revision 1: tightened the tail for economy and dryness — "affixed to doors
+to remind the dead of meetings they had already missed" became "stuck to
+doors to remind the absent of meetings already missed". "Stuck" is the
+plainer, deader word; "the absent" is drier than "the dead"; dropping
+"they had" removes words that earned nothing.
 """
 
 import os
 
 LINE = (
     "Yellow Prayer Square, New Kingdom of the Open Plan, c. 1400 BCE, gummed papyrus; "
-    "affixed to doors to remind the dead of meetings they had already missed."
+    "stuck to doors to remind the absent of meetings already missed."
 )
 
 
